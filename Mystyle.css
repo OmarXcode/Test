@@ -1,0 +1,26 @@
+.txtbox{
+    box-shadow: 10px;
+    border-radius: 10px;
+    text-align: center;
+    scale: 100px;
+    justify-content: center;
+
+}
+.but{
+    scale: 100px;
+    font-family: fantasy;
+    border-style: dashed;
+    border-color: blueviolet;
+}
+.lab{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.M{
+    text-align:  start;
+    color: chartreuse;
+    text-shadow: 10px;
+}
+.sign{
+    color: brown;
+    scale: 10px;
+}
